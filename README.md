@@ -6,7 +6,7 @@ This Power BI Dashboard provides key insights into employee demographics, salary
 
 ## 🧩 Dashboard Overview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ### 🔍 Key Metrics
 - **Total Employees:** 161  
